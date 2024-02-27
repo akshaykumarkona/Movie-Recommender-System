@@ -1,6 +1,21 @@
 # Movie-Recommender-System using NLP
+This project builds a content-based movie recommender system using NLP, also a Streamlit application is built for this project to allow users to interact with my project and get their personalized movie recommendations.
 
-This project builds a content-based movie recommender system using Python libraries like pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup, string, nltk, sklearn, and pickle.
+## Installation
+To run the code, ensure you have Python installed on your system along with the following dependencies:
+- nltk
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- beautifulsoup4
+- pickle
+
+You can install these dependencies using pip:
+```python
+pip install pandas nltk numpy matplotlib seaborn scikit-learn beautifulsoup4 pickle
+```
 
 ## Data Preprocessing
 
